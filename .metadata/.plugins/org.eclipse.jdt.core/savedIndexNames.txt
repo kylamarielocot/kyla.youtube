@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\kylam\Desktop\kyla.youtube\.metadata\.plugins\org.eclipse.jdt.core
+2819456554.index
+2937246968.index
+1865797976.index
